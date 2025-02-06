@@ -4,8 +4,9 @@
   text-align: center;
 }
 
-.post-author {
-  display: none;
+.post-content {
+  // scrollable for mobile devices
+  overflow-x: scroll;
 }
 
 .post-content p {
@@ -22,6 +23,7 @@
   margin: 10px 0;
 }
 
-.post-category, .post-tag {
+.post-category,
+.post-tag {
   margin: 0 5px;
 }
