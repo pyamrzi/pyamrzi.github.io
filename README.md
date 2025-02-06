@@ -5,9 +5,7 @@ Welcome to meetPouya.github.io, a personal blog created using the Jekyll Paper t
 ## Jekyll Paper for Github
 
 Jekyll Paper is a simple Jekyll theme, and it is aim to helping you to create your own blog by the easiest way.
-
 If you would like to make Jekyll Paper for Github better, you can create a new pull request in [Jekyll Paper Github Page][jekyll-paper-github].
-
 If you have any questions or suggestions, you can create an issue on [Jekyll Paper for Github Issues][jekyll-paper-github-issues].
 
 [jekyll-paper]: https://github.com/ghosind/Jekyll-Paper
