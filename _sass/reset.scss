@@ -37,7 +37,7 @@ h6 {
   line-height: normal;
   margin: 5px 0;
   text-indent: 0;
-  font-family: Courier New, Courier, monospace;
+  font-family: 'Courier New', Courier, monospace; // Set font for headings
 }
 
 h2 {
@@ -60,6 +60,7 @@ ul {
 
 p {
   margin-bottom: 5px;
+  padding-bottom: 10px; // Add space after paragraphs
 }
 
 table {
