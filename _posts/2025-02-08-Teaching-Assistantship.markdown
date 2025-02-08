@@ -4,6 +4,7 @@ title:  "Teaching Assistantship"
 date:   2025-02-08
 last_modified_at: 2025-02-08
 categories: [Teaching]
+tags: [teaching, assistantship, embedded systems, biomedical instrumentation, video production]
 ---
 
 I have recently begun a teaching assistantship for my **Embedded Biomedical Instrumentation** class. This class taught me all of the basics of embedded systems and it expanded my basic knowledge of electronics. 
