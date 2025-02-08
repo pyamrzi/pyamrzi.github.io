@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Teaching Assistantship"
-date:   2025-02-07
-last_modified_at: 2025-02-07
+date:   2025-02-08
+last_modified_at: 2025-02-08
 categories: [Teaching]
 ---
 
@@ -17,5 +17,5 @@ Hence, I am hoping to perform the best that I can in this assistantship, as it i
 Here is the first video that I have made for this class:
 
 <div align="center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/_RbQUdtpEmE" frameborder="0" allowfullscreen></iframe>
+  <iframe width="300" height="200" src="https://www.youtube.com/embed/_RbQUdtpEmE" frameborder="0" allowfullscreen></iframe>
 </div>
