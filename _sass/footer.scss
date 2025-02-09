@@ -2,10 +2,19 @@
 
 .footer-copyright {
   overflow: hidden;
+  font-family: monospace;
+  font-style: italic;
 }
 
 .footer-copyright-text {
   display: block;
   position: relative;
   font-size: 14px;
+  font-family: monospace;
+  font-style: italic;
+  letter-spacing: 0.5px;
+  text-align: center;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  padding: 1px 20px;
 }

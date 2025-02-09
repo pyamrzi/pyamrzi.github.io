@@ -26,11 +26,6 @@ layout: default
       {% endif %}
       .
     </div>
-    {% if site.name %}
-    <div class="post-author">
-      {{ site.data.lang[site.language].post_author }}{{ site.name }}
-    </div>
-    {% endif %}
     <div class="post-categories">
       <span>{{ site.data.lang[site.language].post_categories }}</span>
       {% for category in page.categories %}
@@ -39,12 +34,6 @@ layout: default
         class="post-category">
         {{ category }}
       </a>
-      {% endfor %}
-    </div>
-    <div class="post-tags">
-      <span>{{ site.data.lang[site.language].post_tags }}</span>
-      {% for tag in page.tags %}
-      <span class="post-tag">{{ tag }}</span>
       {% endfor %}
     </div>
     <div class="post-other">

@@ -18,7 +18,9 @@ a {
 }
 
 a:hover {
-  color: #00f;
+  color: #ff0;
+  background-color: darkblue;
+  padding: 2px 5px;
 }
 
 blockquote {
@@ -35,9 +37,11 @@ h4,
 h5,
 h6 {
   line-height: normal;
+  font-size: 2em;
   margin: 5px 0;
   text-indent: 0;
-  font-family: 'Courier New', Courier, monospace; // Set font for headings
+  font-style: italic;
+  font-family: monospace;
 }
 
 h2 {

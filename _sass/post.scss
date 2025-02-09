@@ -2,12 +2,11 @@
 
 .post-title {
   text-align: center;
-  margin-bottom: 10pt;
+  margin-bottom: 15px;
 }
 
 .post-content {
-  // scrollable for mobile devices
-  overflow-x: scroll;
+  overflow-x: scroll;  // scrollable for mobile devices
 }
 
 .post-content p {

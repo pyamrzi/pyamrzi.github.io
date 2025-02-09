@@ -7,17 +7,20 @@
 }
 
 .header-info-name {
-  font-size: 2em;
+  font-size: 2.5em;
   font-weight: bold;
-}
-
-.header-info-desc {
-  font-size: 0.9em;
+  font-family: monospace;
+  font-style: italic;
+  margin-left: 10px;
 }
 
 .header-main-nav {
   margin: 0;
+  font-size: 1.5em;
   list-style: none;
+  font-family: monospace;
+  font-style: italic;
+  margin-left: 10px;
 }
 
 .header-main-nav-item {
@@ -26,4 +29,5 @@
   float: left;
   line-height: 24px;
   margin: 0 10px;
+  font-family: monospace;
 }
