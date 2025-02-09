@@ -1,5 +1,21 @@
 @charset "utf-8";
 
+.categories-list {
+  margin: 0;
+  padding: 0;
+}
+
+.categories-list-title {
+  list-style: none;
+  font-family: monospace;
+  font-size: 1.1em;
+  font-weight: bold; 
+}
+
+.categories-list-item {
+  margin-bottom: 0;
+}
+
 .posts-list-item {
   display: block;
   position: relative;
